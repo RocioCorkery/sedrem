@@ -1,0 +1,382 @@
+[
+    {
+        "version": "3.2.0",
+        "changes": [
+            {
+                "note": "Update tsconfig for test installation",
+                "pr": 45
+            }
+        ],
+        "timestamp": 1629895966
+    },
+    {
+        "version": "3.1.8",
+        "changes": [
+            {
+                "note": "Fix doc generate TS parsing potentially undefined export token",
+                "pr": 38
+            }
+        ],
+        "timestamp": 1624871999
+    },
+    {
+        "timestamp": 1619585664,
+        "version": "3.1.7",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1619481141,
+        "version": "3.1.6",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1619466964,
+        "version": "3.1.5",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1619408602,
+        "version": "3.1.4",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1617740166,
+        "version": "3.1.3",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1616613438,
+        "version": "3.1.2",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "version": "3.1.1",
+        "changes": [
+            {
+                "note": "Fix prerelease publish bugs"
+            }
+        ],
+        "timestamp": 1614751897
+    },
+    {
+        "version": "3.1.1-test",
+        "changes": [
+            {
+                "note": "Fix prerelease publish bugs"
+            }
+        ],
+        "timestamp": 1614751271
+    },
+    {
+        "version": "3.1.0",
+        "changes": [
+            {
+                "note": "Move DIST_TAG env var to --dist-tag option to publish job",
+                "pr": 27
+            },
+            {
+                "note": "Add --prerelease option to publish job",
+                "pr": 27
+            }
+        ],
+        "timestamp": 1614746220
+    },
+    {
+        "timestamp": 1609871818,
+        "version": "3.0.5",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1606873582,
+        "version": "3.0.4",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603947853,
+        "version": "3.0.3",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603936330,
+        "version": "3.0.2",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603924140,
+        "version": "3.0.1",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "version": "3.0.0",
+        "changes": [
+            {
+                "note": "Make everything configurable",
+                "pr": 2
+            }
+        ],
+        "timestamp": 1603920653
+    },
+    {
+        "timestamp": 1603482649,
+        "version": "2.0.4",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603261008,
+        "version": "2.0.3",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603248537,
+        "version": "2.0.2",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1603233798,
+        "version": "2.0.1",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "version": "2.0.0",
+        "changes": [
+            {
+                "note": "Upgrade the bignumber.js to v8.0.2",
+                "pr": 1517
+            },
+            {
+                "note": "Add `Set` to `EXTERNAL_TYPE_MAP`.",
+                "pr": 2350
+            },
+            {
+                "note": "Add `TFillData` to `EXTERNAL_TYPE_MAP`",
+                "pr": 2613
+            }
+        ],
+        "timestamp": 1603232788
+    },
+    {
+        "version": "1.0.6",
+        "changes": [
+            {
+                "note": "Render date formats in UTC to prevent conflicts when publishing in different timezones.",
+                "pr": 1143
+            },
+            {
+                "note": "Add AssetBuyerError to the IGNORED_EXCESSIVE_TYPES array",
+                "pr": 1139
+            },
+            {
+                "note": "Add ForwarderError to the IGNORED_EXCESSIVE_TYPES array",
+                "pr": 1147
+            },
+            {
+                "note": "Fix a bug when hardcoded CHANGELOG paths cause fetching release notes to fail",
+                "pr": 1311
+            },
+            {
+                "note": "Added DutchAuctionWrapper to the CLASSES_WITH_HIDDEN_CONSTRUCTORS array",
+                "pr": 1465
+            }
+        ]
+    },
+    {
+        "timestamp": 1534210131,
+        "version": "1.0.5",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1532614997,
+        "version": "1.0.4",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1532605697,
+        "version": "1.0.3",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1532551340,
+        "version": "1.0.2",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1532357734,
+        "version": "1.0.1",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1532043000,
+        "version": "1.0.0",
+        "changes": [
+            {
+                "note": "Fix git remote tag removal step & add an additional sanity assertion",
+                "pr": 803
+            },
+            {
+                "note": "Make PR numbers links on Github releases"
+            }
+        ]
+    },
+    {
+        "timestamp": 1531149657,
+        "version": "0.2.2",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1529397769,
+        "version": "0.2.1",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1529081166,
+        "version": "0.2.0",
+        "changes": [
+            {
+                "note": "Add `prepublish_checks` script",
+                "pr": 650
+            }
+        ]
+    },
+    {
+        "timestamp": 1527008794,
+        "version": "0.1.20",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1525428773,
+        "version": "0.1.19",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1524044013,
+        "version": "0.1.18",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1523462196,
+        "version": "0.1.17",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1522658513,
+        "version": "0.1.16",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "version": "0.1.13",
+        "changes": [
+            {
+                "note": "Add postpublish utils"
+            }
+        ],
+        "timestamp": 1521298800
+    }
+]
